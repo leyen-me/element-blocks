@@ -1,0 +1,3 @@
+{
+  "/blocks/auth/login": "<script setup lang=\"ts\">\r\n    console.log('login')\r\n</script>\r\n\r\n<template>\r\n    <div class=\"w-full h-full p-4\">\r\n        登录\r\n    </div>\r\n</template>\r\n"
+}
